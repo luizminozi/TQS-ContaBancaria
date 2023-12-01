@@ -5,7 +5,7 @@ O código a seguir foi desenvolvido no eclipse para realizar testes em um cenari
 
 ![normal](contanormal.png)
 
-![normal](contaespecial.png)
+![especial](contaespecial.png)
 
 ## Última atualização 30/11/2023
 
