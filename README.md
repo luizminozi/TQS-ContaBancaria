@@ -5,9 +5,10 @@ O código a seguir foi desenvolvido no eclipse para realizar testes em um cenari
 ## Tests
 ![testes](testes.png)
 
-## Clients
+## Normal Clients
 ![normal](contanormal.png)
 
+## Special Clients
 ![especial](contaespecial.png)
 
 ## Última atualização 30/11/2023
